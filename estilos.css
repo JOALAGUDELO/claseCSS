@@ -8,10 +8,15 @@ h3 {
 
 .videoyaudio {
     font-family: "consolas";
+    font-weight: "bold";
 }
 
 .infomedellin {
     font-family: "Trebuchet MS";
-    font-size: 2em;
-    font-weight: 200;
+    font-size: 1em;
+    color: #091FF6   ;
+}
+
+body {
+    background: rgb(192, 171, 134);
 }
