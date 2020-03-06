@@ -17,14 +17,15 @@ h3 {
     color: #091FF6   ;
 }
 
-body {
-    background: rgb(192, 171, 134);
-}
-
 .header_pagina1 {
-    color: green;
+    background-color: blue;
+    color: white
 }
 
 .header_index {
-    color: blue;
+    background-color: green;
+}
+
+.nav_pagina1 {
+    background-color: white;
 }
