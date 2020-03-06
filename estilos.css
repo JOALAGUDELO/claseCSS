@@ -20,3 +20,11 @@ h3 {
 body {
     background: rgb(192, 171, 134);
 }
+
+.header_pagina1 {
+    color: green;
+}
+
+.header_index {
+    color: blue;
+}
