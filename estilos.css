@@ -1,4 +1,4 @@
-h1  {
+h1 {
     font-size: 60px;
 }
 
@@ -14,7 +14,7 @@ h3 {
 .infomedellin {
     font-family: "Trebuchet MS";
     font-size: 1em;
-    color: #091FF6   ;
+    color: #091FF6;
 }
 
 .header_pagina1 {
@@ -34,5 +34,19 @@ h3 {
     background-image: url(img/imagenmedellin.jpg);
     background-attachment: fixed;
     height: 1000px;
-    color:red;
+    color: red;
+}
+
+table {
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 2px solid;
+}
+
+td:hover {
+    background-color: grey;
 }
